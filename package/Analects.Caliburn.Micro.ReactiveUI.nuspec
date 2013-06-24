@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Analects.Caliburn.Micro.ReactiveUI</id>
+    <version>1.0.0</version>
+    <title>Analects.Caliburn.Micro.ReactiveUI</title>
+    <authors>distantcam</authors>
+    <owners>distantcam</owners>
+    <licenseUrl>http://opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides ReactiveUI versions of Caliburn.Micro classes.</description>
+    <summary>Integration of Caliburn.Micro with ReactiveUI.</summary>
+    <tags>Caliburn.Micro ReactiveUI MVVM</tags>
+    <dependencies>
+      <dependency id="Caliburn.Micro" />
+      <dependency id="ReactiveUI-XAML" />
+    </dependencies>
+  </metadata>
+</package>
